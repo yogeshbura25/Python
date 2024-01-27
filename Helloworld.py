@@ -1,0 +1,3 @@
+string = "HelloWold!"
+
+print(string)
